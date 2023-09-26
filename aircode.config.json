@@ -1,0 +1,7 @@
+{
+  "name": "yh",
+  "runtime": "node/v16",
+  "retion": "US",
+  "envs": [],
+  "typescript": false
+}
