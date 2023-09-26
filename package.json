@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "aircode": "0.3.2",
-    "fs-extra": "11.1.1"
+    "aircode": "0.7.0"
   }
 }

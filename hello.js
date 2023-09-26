@@ -4,6 +4,6 @@ const aircode = require('aircode');
 module.exports = async function (params, context) {
   console.log('Received params:', params);
   return {
-    message: 'Hi, AirCode.jd',
+    message: 'Hi, AirCode.123',
   };
 };

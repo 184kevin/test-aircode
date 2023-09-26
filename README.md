@@ -1,5 +1,5 @@
 ## One-Click Deployment
 
-Easily get a copy and launch your app on [AirCode](https://aircode-test.com/) by clicking the button below.
+Easily get a copy and launch your app on [AirCode](https://aircode.io/) by clicking the button below.
 
-[![Deploy with AirCode](https://aircode-test.com/aircode-deploy-button.svg)](https://aircode-test.com/dashboard?owner=184kevin&repo=test-aircode&path=&appname=yh)
+[![Deploy with AirCode](https://aircode.io/aircode-deploy-button.svg)](https://aircode.io/dashboard?owner=184kevin&repo=test-aircode&path=&appname=TEST)

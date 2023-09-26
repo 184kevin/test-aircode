@@ -1,6 +1,6 @@
 {
-  "name": "yh",
-  "runtime": "node/v16",
+  "name": "TEST",
+  "runtime": "node/v18",
   "retion": "US",
   "envs": [],
   "typescript": false
